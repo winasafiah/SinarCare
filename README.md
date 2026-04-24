@@ -7,3 +7,5 @@ We aim to build an application for elderly where they can have a sense of indepe
 The app has a simple interface with large buttons and clear navigation. It also uses soft colours that complement the features of the app. This app helps users with medication reminders, set up appointments, an SOS button, and others. 
 
 We present to you, SinarCare, _"Assistance for Our Loved Ones"_. 
+
+Please read setup instructions to launch application. 
