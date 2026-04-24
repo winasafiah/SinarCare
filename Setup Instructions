@@ -1,2 +1,0 @@
-Please ensure Google Antigravity and Node.js are available before running this application. Our app uses Node.js to launch the application and Google Cloud to deploy.
-Open the sinarcare folder in Antigravity and prompt "npm run dev". Antigravity will then run and launch the app on a localhost (http://localhost.3000).
