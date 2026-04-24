@@ -267,7 +267,7 @@ function HealthCompanion({ onBack, history, onUpdateHistory, vitals, meds, compa
         ? `Current medications: ${meds.map(m => m.name).join(', ')}.`
         : "No medications listed.";
 
-      const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
+      const ai = new GoogleGenAI({ apiKey: "AIzaSyCRIuZRID_hpkubcUaD9al9KqnP3cAlrxg" });
       const response = await ai.models.generateContent({
         model: "gemini-3-flash-preview",
         config: {
