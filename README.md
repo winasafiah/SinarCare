@@ -10,4 +10,4 @@ This app uses Vertex AI for the AI feature. It runs on Python and Firebase for b
 
 We present to you, SinarCare, _"Assistance for Our Loved Ones"_. 
 
-Please read setup instructions to launch application. 
+
